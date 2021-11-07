@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Newsfeed</string>
-    <string name="title_home">News+</string>
+    <string name="title_home">Movies</string>
     <string name="title_dashboard">Today</string>
     <string name="title_notifications">Following</string>
     <string name="rating">10.0</string>
