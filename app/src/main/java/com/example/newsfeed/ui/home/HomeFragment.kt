@@ -45,7 +45,7 @@ class HomeFragment : Fragment() {
                             columnCount <= 1 -> LinearLayoutManager(context)
                             else -> GridLayoutManager(context, columnCount)
                         }
-                        adapter = MoviesAdapter(movies, R.layout.list_item_movie)
+                        adapter = MoviesAdapter(movies, R.layout.list_item_movie,context)
                     }
                 }
             }
